@@ -11,5 +11,5 @@ Download the eval_data created by [Self-RAG (Asai et al., 2023)](https://github.
 Run the following command for Self-CRAG data preparation.
 ```bash
 bash run_data_preprocess.sh
-
-We follow the instructions at Self-RAG (Asai et al., 2023) for the ultimate results.
+```
+We follow the instructions at [Self-RAG (Asai et al., 2023)](https://github.com/AkariAsai/self-rag) for the ultimate results.
